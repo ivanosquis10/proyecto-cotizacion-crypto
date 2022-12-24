@@ -29,7 +29,7 @@ const Texto = styled.p`
 `;
 
 const Precio = styled.div`
-  font-size: 30px;
+  font-size: 25px;
   text-transform: uppercase;
   font-weight: 400;
   span {

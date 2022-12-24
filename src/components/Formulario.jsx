@@ -19,6 +19,7 @@ const Input = styled.input`
   cursor: pointer;
   transition: background-color .3s ease;
   margin-top: 20px;
+  margin-bottom: 50px;
   &:hover {
     background-color: #7a66da;
   }
